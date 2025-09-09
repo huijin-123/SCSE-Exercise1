@@ -1,1 +1,1 @@
-# SCSE-Exercose1
+# SCSE-Exercise1
