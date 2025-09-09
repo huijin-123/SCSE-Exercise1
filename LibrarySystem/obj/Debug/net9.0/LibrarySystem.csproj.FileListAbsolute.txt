@@ -1,0 +1,14 @@
+D:\软件\C#exercise\LibrarySystem\bin\Debug\net9.0\LibrarySystem.exe
+D:\软件\C#exercise\LibrarySystem\bin\Debug\net9.0\LibrarySystem.deps.json
+D:\软件\C#exercise\LibrarySystem\bin\Debug\net9.0\LibrarySystem.runtimeconfig.json
+D:\软件\C#exercise\LibrarySystem\bin\Debug\net9.0\LibrarySystem.dll
+D:\软件\C#exercise\LibrarySystem\bin\Debug\net9.0\LibrarySystem.pdb
+D:\软件\C#exercise\LibrarySystem\obj\Debug\net9.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\软件\C#exercise\LibrarySystem\obj\Debug\net9.0\LibrarySystem.AssemblyInfoInputs.cache
+D:\软件\C#exercise\LibrarySystem\obj\Debug\net9.0\LibrarySystem.AssemblyInfo.cs
+D:\软件\C#exercise\LibrarySystem\obj\Debug\net9.0\LibrarySystem.csproj.CoreCompileInputs.cache
+D:\软件\C#exercise\LibrarySystem\obj\Debug\net9.0\LibrarySystem.dll
+D:\软件\C#exercise\LibrarySystem\obj\Debug\net9.0\refint\LibrarySystem.dll
+D:\软件\C#exercise\LibrarySystem\obj\Debug\net9.0\LibrarySystem.pdb
+D:\软件\C#exercise\LibrarySystem\obj\Debug\net9.0\LibrarySystem.genruntimeconfig.cache
+D:\软件\C#exercise\LibrarySystem\obj\Debug\net9.0\ref\LibrarySystem.dll
